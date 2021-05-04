@@ -1,0 +1,83 @@
+body{
+	font-size: 20px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: 300;
+	background-color: gray;
+	color: white;
+	}
+*,*::before,*::after{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+img{max-width: 100%}
+header{
+	background-color: darkslategray;
+	color: gainsboro;
+	padding-top: 10;
+}
+header a{
+	background-color: darkslategray;
+	text-decoration: none;
+	font-size: 25px;
+	color: gainsboro;
+}
+header a:hover{
+	color:white;
+}
+header nav{
+	margin-top: 15px;
+}
+header li{
+	display: inline-block;
+	margin: 10px 20px 10px 10px;
+	padding-top: 5px;
+	float: left;
+}
+.elhelyezkedes{
+	width: 95%;
+	margin: auto;
+	overflow: hidden;
+}
+.en{
+	margin-top:15%;
+	text-align: center;
+}
+.sorkoz{
+	margin-top: 10px;
+	font-size: 30px;
+}
+.rolam{
+	margin-top: 5%;
+	margin-left: 5%;
+	text-align: left;
+	width:90%;
+}
+.keprolam{
+	margin-top: 5% +30px;
+	margin-right: 5%; 
+}
+.margo{
+	margin-top: 30px;
+}
+.bemutatkozas{
+	margin-left: 2%;
+	margin-top: 5%;
+}
+.kepfelso{
+	padding: 4%;
+}
+.kepalso{
+	padding-left:4%;
+	padding-right: 4%;
+	padding-bottom: 4%;
+}
+.doksi{
+	max-width: 70%;
+}
+a{
+	color: gainsboro;
+}
+a:hover{
+	color:white;
+}
